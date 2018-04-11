@@ -1,0 +1,3 @@
+Q. Consider a computer system in which computer games can be played by students only between 10 P.M. and 6 A.M.
+   by faculty member between 5 P.M. and 8 A.M. ,and by the computer center staff at all the time.Suggest a 
+   schene for implementating this policy efficiently. Also,code the solution using a computer language(like C) 
